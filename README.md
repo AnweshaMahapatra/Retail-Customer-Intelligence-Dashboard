@@ -56,7 +56,7 @@ Prepared structured datasets for SQL analysis and Power BI reporting.
 
 ## 2️⃣ SQL Business Analysis
 
-Performed business-focused analysis including:
+Performed business-focused analysis, including:
 
 ✔ Customer purchase trends  
 ✔ Revenue analysis by demographics  
@@ -118,6 +118,7 @@ This project demonstrates how analytics can help businesses:
 
 # 📁 Repository Structure
 
+```bash
 
 📦 Retail-Customer-Intelligence-Dashboard
  ┣ 📂 data
@@ -133,16 +134,26 @@ This project demonstrates how analytics can help businesses:
 
 ---
 
-💡 Skills Demonstrated
-Power BI Dashboard Development
-SQL Querying & Business Analysis
-Data Cleaning & Transformation
-Data Modeling
-KPI Reporting
-Customer Behavior Analytics
-Data Visualization
-Business Intelligence Reporting
-📬 Connect With Me
+#💡 Skills Demonstrated
+
+1. Power BI Dashboard Development
+
+2. SQL Querying & Business Analysis
+
+3. Data Cleaning & Transformation
+
+4.  Data Modeling
+
+5. KPI Reporting
+
+6. Customer Behavior Analytics
+
+7. Data Visualization
+
+8. Business Intelligence Reporting
+---
+
+#📬 Connect With Me
 
 If you found this project interesting or would like to collaborate on analytics projects:
 
