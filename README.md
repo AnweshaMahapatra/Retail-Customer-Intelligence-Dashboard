@@ -134,7 +134,8 @@ This project demonstrates how analytics can help businesses:
 
 ---
 
-#💡 Skills Demonstrated
+
+### 💡 Skills Demonstrated
 
 1. Power BI Dashboard Development
 
@@ -153,11 +154,10 @@ This project demonstrates how analytics can help businesses:
 8. Business Intelligence Reporting
 ---
 
-#📬 Connect With Me
+### 📬 Connect With Me
 
 If you found this project interesting or would like to collaborate on analytics projects:
 
-LinkedIn
-GitHub
+LinkedIn: https://www.linkedin.com/in/anweshamahapatra-dataanalyst/
 
 ⭐ Feel free to fork, star, or contribute to the project.
