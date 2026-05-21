@@ -3,7 +3,7 @@
 
 An end-to-end Business Intelligence project focused on analyzing retail customer behavior, purchasing patterns, and revenue insights using SQL, Python, and Power BI.
 
-This project demonstrates a complete analytics workflow — from raw data cleaning and transformation to KPI-driven dashboard reporting and business storytelling.
+This project demonstrates a complete analytics workflow from raw data cleaning and transformation to KPI-driven dashboard reporting and business storytelling.
 
 ---
 
@@ -118,7 +118,7 @@ This project demonstrates how analytics can help businesses:
 
 # 📁 Repository Structure
 
-```bash
+
 📦 Retail-Customer-Intelligence-Dashboard
  ┣ 📂 data
  ┃ ┗ 📄 retail_customer_transactions.csv
@@ -130,3 +130,23 @@ This project demonstrates how analytics can help businesses:
  ┃ ┣ 📄 retail_customer_intelligence.pbix
  ┃ ┗ 📄 retail_dashboard_preview.png
  ┗ 📄 README.md
+
+---
+
+💡 Skills Demonstrated
+Power BI Dashboard Development
+SQL Querying & Business Analysis
+Data Cleaning & Transformation
+Data Modeling
+KPI Reporting
+Customer Behavior Analytics
+Data Visualization
+Business Intelligence Reporting
+📬 Connect With Me
+
+If you found this project interesting or would like to collaborate on analytics projects:
+
+LinkedIn
+GitHub
+
+⭐ Feel free to fork, star, or contribute to the project.
